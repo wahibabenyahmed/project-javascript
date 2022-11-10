@@ -1,0 +1,16 @@
+.control{
+    display:flex ;
+    justify-content: space-around;
+}
+.prix1{
+    position:absolute ;
+}
+
+.comp{
+display: flex;
+justify-content: space-around;
+
+}
+.titre{
+    text-align: center;
+}
